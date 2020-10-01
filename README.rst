@@ -1,4 +1,4 @@
-pytrader
+pytrader 2.0 v
 ========
 
 .. image:: http://3.bp.blogspot.com/_x1Xe0kyzOQs/TQFLb0Zd88I/AAAAAAAAAhQ/_2VkjGmYEcc/s1600/spoopit82.PNG
